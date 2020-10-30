@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+ 
+.icon-at:before { content: '\40'; } /* '@' */
+.icon-skype:before { content: '\53'; } /* 'S' */
+.icon-icq:before { content: '\f304'; } /* '' */
+.icon-phone:before { content: '📞'; } /* '\1f4de' */
