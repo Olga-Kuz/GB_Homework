@@ -347,11 +347,13 @@
     text-decoration: none;
     border: none;
 }
-.buy_button:hover{
-background-color: gray;
+
+.buy_button:hover {
+    background-color: gray;
     color: white;
     border-color: white;
 }
+
 .footer {
     padding: 50px;
     background-color: #445162;
@@ -444,12 +446,14 @@ background-color: gray;
     background-image: url('../img/3.png');
     display: flex;
 }
+
 .social_btns_item {
     width: 48px;
     height: 42px;
 }
+
 .social_btns_item:hover {
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 .footer_bottom {
